@@ -7,13 +7,13 @@
 
 ### 2. Image from which the project was run
 ##### annoying_orange
-![annoying orange_demo](https://user-images.githubusercontent.com/112802701/207129362-297c20ab-1891-4452-b839-50e3ef231d4b.png)
+<img src = "https://user-images.githubusercontent.com/112802701/207129362-297c20ab-1891-4452-b839-50e3ef231d4b.png" width="30%" height ="40%">
 
 ##### image_capture
-![image capture_demo](https://user-images.githubusercontent.com/112802701/207129375-3678e5fa-89f4-4730-836e-9299a5fe5aa2.png)
+<img src = "https://user-images.githubusercontent.com/112802701/207129375-3678e5fa-89f4-4730-836e-9299a5fe5aa2.png"  width="30%" height ="40%">
 
 ##### face landmark
-![landmark_demo](https://user-images.githubusercontent.com/112802701/207129381-8415eb1e-b156-4534-baa0-5774c26d62f4.png)
+<img src = "https://user-images.githubusercontent.com/112802701/207129381-8415eb1e-b156-4534-baa0-5774c26d62f4.png"  width="30%" height ="40%">
 
 ### 3. Package used
 - __opencv__ : it is an open source related to image processing and computer vision. It is equipped with state-of-the-art algorithms as well as traditional algorithms related to machine learning. It is used in various applications such as face recognition, 3d model extraction of objects, coordinate generation, image stitching image search, and eye movement tracking.
