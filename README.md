@@ -23,6 +23,7 @@
 
 ### 4. How to execute
 When you run the annoying orange.py file on Python, you can see the results in a window window.
+If you press 'q', the window window closes.
 
 ### 5. References
 - https://webnautes.tistory.com/1410
