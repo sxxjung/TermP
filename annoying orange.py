@@ -26,7 +26,6 @@ while True :
         for p in shape:
             cv2.circle(face_img, center=(p[0] - x1, p[1] - y1), radius=2, color=255, thickness=-1)
 
-        #eyes
         result = cv2.seamlessClone(
             left_eye_img,
             result,
@@ -43,7 +42,6 @@ while True :
             cv2.MIXED_CLONE
         )
         
-        #mouth
         result = cv2.seamlessClone(
             mouth_img,
             result,
